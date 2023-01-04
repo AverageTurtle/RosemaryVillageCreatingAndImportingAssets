@@ -1,7 +1,5 @@
 # Rosemary Village Creating And ImportingAssets
 Hello and welcome to a ever expanding on how to creating and importing assets into Rosemary village
-### Table Of Contents
-[TOC]
 
 ## General Rules
 Before we begin I want to give some general rules of creating game ready assets.
