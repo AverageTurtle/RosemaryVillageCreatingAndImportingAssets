@@ -18,7 +18,7 @@ Credit for the image and more detailed info can be found at: https://learnopengl
 Now how does this relate to creating game ready assets? Well when the engine lights a model a key component how how it decides to do so is the normals. For example if a normal is facing towards a light will be lighter and one facing a way will be darker.  
 Now for a more pratical Example in the image below on the left you notice how the model looks inside out? This is because of a optimization called back face calling that doesnt render triangles facing away from the camera. The one one the right has all the normals facing the correct direction. To recaculate the normals in blender just go into edit mote ctrl+A to select all then shift+n to recaculate normals.  
 [![](https://media.discordapp.net/attachments/1053745787391180850/1060341441064337429/BadVsGoodNormals.png)](https://media.discordapp.net/attachments/1053745787391180850/1060341441064337429/BadVsGoodNormals.png)
-***
+<br>
 (Note: to get this view in blender go to the top right view mode changer and change click the downward arrow and look for backface culling if it doesn't show try a different view mode)  
 
 #### Texures and VRAM
