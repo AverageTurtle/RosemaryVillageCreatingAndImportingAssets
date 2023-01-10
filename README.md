@@ -28,5 +28,5 @@ So textures can be both a optimization or a large performance hog depending on t
 **NOTE: THIS SECTION IS VERY WIP AND LIKELY TO CHANGE**
 As this process has a few different paths to head down it has been split up into a few files.
 * [Wardrobe Item System](WardrobeItemSystem.md)
-* [Preparing Model For Import]()
+* [Preparing Model For Import](PreparingModelsForImport.md)
 * [Wardrobe Item Types]()

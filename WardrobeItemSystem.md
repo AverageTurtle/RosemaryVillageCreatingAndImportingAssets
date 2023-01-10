@@ -37,6 +37,6 @@ local ItemInfo = {
 return ItemInfo
 ```
 
-Next I reccomend reading preparing a model for import! Or if you already understand the naming conventions skip to wardrobe Item Types
-* [Preparing Model For Import]()
+Next I recommend reading preparing a model for import! Or if you already understand the naming conventions skip to wardrobe Item Types
+* [Preparing Model For Import](PreparingModelsForImport.md)
 * [Wardrobe Item Types]()
